@@ -1,6 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mchoji&label=Profile%20views&color=0e75b6&style=flat" alt="mchoji" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yok4i&label=Profile%20views&color=0e75b6&style=flat" alt="yok4i" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mchoji&theme=dracula" alt="mchoji" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yok4i&theme=dracula" alt="yok4i" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -40,13 +40,13 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mchoji&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mchoji" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yok4i&show_icons=true&theme=dracula&locale=en&layout=compact" alt="yok4i" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mchoji&show_icons=true&theme=dracula&locale=en" alt="mchoji" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yok4i&show_icons=true&theme=dracula&locale=en" alt="yok4i" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mchoji&theme=dracula" alt="mchoji" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yok4i&theme=dracula" alt="yok4i" /></p>
 
-<p align="left"> <a href="https://twitter.com/m_choji" target="blank"><img src="https://img.shields.io/twitter/follow/m_choji?logo=twitter&style=for-the-badge" alt="m_choji" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_y0k4i" target="blank"><img src="https://img.shields.io/twitter/follow/_y0k4i?logo=twitter&style=for-the-badge" alt="_y0k4i" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -58,10 +58,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/m_choji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_choji" height="30" width="40" /></a>
-<a href="https://medium.com/@mchoji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mchoji" height="30" width="40" /></a>
+<a href="https://twitter.com/_y0k4i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_y0k4i" height="30" width="40" /></a>
+<a href="https://medium.com/@y0k4i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@y0k4i" height="30" width="40" /></a>
 </p>
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/choji"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="choji" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/y0k4i"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="y0k4i" /></a></p><br><br>
