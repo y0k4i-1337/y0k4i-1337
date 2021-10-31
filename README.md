@@ -50,10 +50,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [SECARMY’s CTF @ GrayHat 2020 — Write-up](https://mchoji.medium.com/secarmys-ctf-grayhat-2020-write-up-7f7ee5b64039?source=rss-7a49dd51f242------2)
-- [Hack The Box —Cache Write-up](https://mchoji.medium.com/hack-the-box-cache-write-up-20f83f298c4a?source=rss-7a49dd51f242------2)
-- [Hack The Box — Blackfield Write-up](https://mchoji.medium.com/hack-the-box-blackfield-write-up-8ad61e18e55b?source=rss-7a49dd51f242------2)
-- [Hack The Box —Remote Write-up](https://mchoji.medium.com/hack-the-box-remote-write-up-419855f55140?source=rss-7a49dd51f242------2)
+- [SECARMY’s CTF @ GrayHat 2020 — Write-up](https://y0k4i.medium.com/secarmys-ctf-grayhat-2020-write-up-7f7ee5b64039?source=rss-7a49dd51f242------2)
+- [Hack The Box —Cache Write-up](https://y0k4i.medium.com/hack-the-box-cache-write-up-20f83f298c4a?source=rss-7a49dd51f242------2)
+- [Hack The Box — Blackfield Write-up](https://y0k4i.medium.com/hack-the-box-blackfield-write-up-8ad61e18e55b?source=rss-7a49dd51f242------2)
+- [Hack The Box —Remote Write-up](https://y0k4i.medium.com/hack-the-box-remote-write-up-419855f55140?source=rss-7a49dd51f242------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
