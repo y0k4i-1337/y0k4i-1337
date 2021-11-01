@@ -40,9 +40,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yok4i&show_icons=true&theme=dracula&locale=en&layout=compact" alt="yok4i" /></p>
- -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yok4i&count_private=true&show_icons=true&theme=dracula&custom_title=yok4i%27s%20GitHub%20Stats&locale=en" alt="yok4i" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yok4i&show_icons=true&theme=dracula&locale=en&layout=compact" alt="yok4i" /></p> -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yok4i&show_icons=true&theme=dracula&locale=en&custom_title=yok4i%27s%20GitHub%Stats" alt="yok4i" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yok4i&theme=dracula" alt="yok4i" /></p>
 
