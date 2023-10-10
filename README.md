@@ -3,6 +3,8 @@
 <h3 align="left">🏆 GitHub Profile Trophy:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0k4i-1337&theme=flat&column=3&margin-w=20&margin-h=20&no-frame=true" alt="y0k4i-1337" /></a> </p>
 
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <!-- languages -->
@@ -44,6 +46,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y0k4i-1337&show_icons=true&theme=default&locale=en&layout=compact&langs_count=8&hide=jupyter%20notebook,scheme,html,css,rich%20text%20format,vim%20script" alt="y0k4i-1337" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y0k4i-1337&show_icons=true&theme=default&locale=en&custom_title=y0k4i-1337%27s%20GitHub%20Stats" alt="y0k4i-1337" /></p>
@@ -52,7 +56,9 @@
 
 <p align="left"> <a href="https://twitter.com/_y0k4i" target="blank"><img src="https://img.shields.io/twitter/follow/_y0k4i?logo=twitter&style=for-the-badge" alt="_y0k4i" /></a> </p>
 
-### Blogs posts
+<br>
+
+<h3 align="left">Blogs posts:</h3>
 <!-- BLOG-POST-LIST:START -->
 - [SECARMY’s CTF @ GrayHat 2020 — Write-up](https://y0k4i.medium.com/secarmys-ctf-grayhat-2020-write-up-7f7ee5b64039?source=rss-7a49dd51f242------2)
 - [Hack The Box —Cache Write-up](https://y0k4i.medium.com/hack-the-box-cache-write-up-20f83f298c4a?source=rss-7a49dd51f242------2)
@@ -60,12 +66,13 @@
 - [Hack The Box —Remote Write-up](https://y0k4i.medium.com/hack-the-box-remote-write-up-419855f55140?source=rss-7a49dd51f242------2)
 <!-- BLOG-POST-LIST:END -->
 
+<br><br>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_y0k4i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_y0k4i" height="30" width="40" /></a>
 <a href="https://y0k4i.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@y0k4i" height="30" width="40" /></a>
 </p>
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/y0k4i"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="y0k4i" /></a></p><br><br>
