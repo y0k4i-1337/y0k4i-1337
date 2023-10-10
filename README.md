@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0k4i-1337&label=Profile%20views&color=0e75b6&style=flat" alt="y0k4i-1337" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0k4i-1337&theme=dracula" alt="y0k4i-1337" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0k4i-1337&theme=flat" alt="y0k4i-1337" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -43,11 +43,11 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y0k4i-1337&show_icons=true&theme=dracula&locale=en&layout=compact&langs_count=8&hide=jupyter%20notebook,scheme,html,css,rich%20text%20format,vim%20script" alt="y0k4i-1337" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y0k4i-1337&show_icons=true&theme=default&locale=en&layout=compact&langs_count=8&hide=jupyter%20notebook,scheme,html,css,rich%20text%20format,vim%20script" alt="y0k4i-1337" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y0k4i-1337&show_icons=true&theme=dracula&locale=en&custom_title=y0k4i-1337%27s%20GitHub%20Stats" alt="y0k4i-1337" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y0k4i-1337&show_icons=true&theme=default&locale=en&custom_title=y0k4i-1337%27s%20GitHub%20Stats" alt="y0k4i-1337" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y0k4i-1337&theme=dracula" alt="y0k4i-1337" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y0k4i-1337&theme=default" alt="y0k4i-1337" /></p>
 
 <p align="left"> <a href="https://twitter.com/_y0k4i" target="blank"><img src="https://img.shields.io/twitter/follow/_y0k4i?logo=twitter&style=for-the-badge" alt="_y0k4i" /></a> </p>
 
