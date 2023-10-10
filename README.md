@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0k4i-1337&label=Profile%20views&color=0e75b6&style=flat" alt="y0k4i-1337" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0k4i-1337&theme=flat" alt="y0k4i-1337" /></a> </p>
+<h3 align="left">🏆 GitHub Profile Trophy:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0k4i-1337&theme=flat&column=3&margin-w=20&margin-h=20&no-frame=true" alt="y0k4i-1337" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
