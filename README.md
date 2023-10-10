@@ -59,6 +59,7 @@
 <br>
 
 <h3 align="left">Blogs posts:</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [SECARMY’s CTF @ GrayHat 2020 — Write-up](https://y0k4i.medium.com/secarmys-ctf-grayhat-2020-write-up-7f7ee5b64039?source=rss-7a49dd51f242------2)
 - [Hack The Box —Cache Write-up](https://y0k4i.medium.com/hack-the-box-cache-write-up-20f83f298c4a?source=rss-7a49dd51f242------2)
